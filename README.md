@@ -12,7 +12,7 @@ Project structure:
 └── compose.yaml
 ```
 
-[_compose.yaml_](compose.yaml)
+compose.yaml
 ```
 services:
   web:
@@ -66,7 +66,7 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 
 After the application starts, navigate to `http://localhost:80` in your web browser.
 
-![page](output.jpg)
+![image](https://user-images.githubusercontent.com/110657529/209974803-02203266-f92d-4184-8722-33f29a86cdd5.png)
 
 Stop and remove the containers
 
